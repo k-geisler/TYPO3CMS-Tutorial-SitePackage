@@ -58,7 +58,7 @@ Add the following lines:
       "..." : "..."
    }
 
-Move your the extension folder :file:`site_package` directly into the folder
+Move your extension folder :file:`site_package` directly into the folder
 :file:`local_packages`. Then *require* the extension via Composer  using the
 `name` defined in the site package extensions :file:`composer.json` now located
 at :file:`local_packages/site_package/`. For example if you defined the name as
