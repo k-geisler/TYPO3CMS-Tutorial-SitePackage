@@ -1,4 +1,4 @@
-# Contribute to TYPO3 Documentation [[Änderung mit VSCode im Browser]]
+# Contribute to TYPO3 Documentation
 
 ## Create Issues
 
